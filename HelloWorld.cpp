@@ -16,3 +16,5 @@ int main(){
 	cout << "hello, c++" << endl;
 	return 0;
 }
+
+// formatting 2
